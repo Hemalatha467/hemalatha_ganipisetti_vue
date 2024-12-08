@@ -1,0 +1,58 @@
+{
+    "playlist": [
+        {
+            "songId":1,
+            "title":"Dynamite",
+            "singer":"BTS",
+            "albumName":"BE",
+            "songDuration":"3:19",
+            "image":"https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png",
+            "releasedDate":"August 21,2020"
+        },
+        {
+            "songId":2,
+            "title":"Blank Space",
+            "singer":"Taylor Swift",
+            "albumName":"1989",
+            "songDuration":"3:51",
+            "image":"https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+            "releasedDate":"November 10,2014"
+        },
+        {
+            "songId":3,
+            "title":"Standing Next to You",
+            "singer":"Jungkook",
+            "albumName":"GOLDEN",
+            "songDuration":"3:26",
+            "image":"https://preview.redd.it/bts-jungkook-standing-next-to-you-solo-album-golden-title-v0-lj875d76xkub1.jpg?width=640&crop=smart&auto=webp&s=5bdc14d63f863b2c6efb1cccb7f511f2e9304c01",
+            "releasedDate":"November 3,2023"
+        },
+        {
+            "songId":4,
+            "title":"Dynamite",
+            "singer":"BTS",
+            "albumName":"BE",
+            "songDuration":"3:19",
+            "image":"https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png",
+            "releasedDate":"August 21,2020"
+        },
+        {
+            "songId":5,
+            "title":"Dynamite",
+            "singer":"BTS",
+            "albumName":"BE",
+            "songDuration":"3:19",
+            "image":"https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png",
+            "releasedDate":"August 21,2020"
+        },
+        {
+            "songId":6,
+            "title":"Dynamite",
+            "singer":"BTS",
+            "albumName":"BE",
+            "songDuration":"3:19",
+            "image":"https://images.genius.com/df009633e4702b3838c793c7fd97adf3.1000x1000x1.png",
+            "releasedDate":"August 21,2020"
+        }
+    ] 
+}
